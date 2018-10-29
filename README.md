@@ -13,7 +13,12 @@
 ![диаграмма прецендентов](https://github.com/AbakumtsevRoman/laba1.github.io/blob/84b9c0e6dd9dd20f63b4430572562c1b1df67471/%D0%BB%D0%B0%D0%B1%D0%B0%201/12.png)
 
 ## Лабораторная 2  
-  
+В данной лабораторной были сделана декомпозиций блоков A0 и A2.  
+Представление блока A0:  
+![декомпозиция A0](https://github.com/AbakumtsevRoman/laba1.github.io/blob/master/%D0%BB%D0%B0%D0%B1%D0%B0%201/%D1%802.png)   
+Представление блока A2:  
+![декомпозиция A2](https://github.com/AbakumtsevRoman/laba1.github.io/blob/master/%D0%BB%D0%B0%D0%B1%D0%B0%201/%D1%803.png)  
+
 ## Лабораторная 3  
   
 ## Лабораторная 4  
