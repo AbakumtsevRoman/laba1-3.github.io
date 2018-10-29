@@ -1,0 +1,12 @@
+﻿@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class "Сотрудник университета" as P {
+ Компьютер
+Готовое расписание Составлять расписание (Список преподавателей Список аудиторий Список предметов, Учебный план)
+}
+hide circle
+@enduml
