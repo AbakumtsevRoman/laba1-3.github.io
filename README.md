@@ -4,8 +4,10 @@
   
 Лабораторная 1  
 ![IDEF0]()  
+
 Диаграмма классов для IDEF0. Текст для [этой]() диаграммы.  
-![диаграмма классов]()   
+![диаграмма классов]()  
+
 Диграмма прецендентов для IDEF0. Текст для [этой](https://github.com/AbakumtsevRoman/laba1.github.io/blob/master/%D0%BB%D0%B0%D0%B1%D0%B0%201/%D1%82%D0%B5%D0%BA%D1%81%D1%82%2012.txt) диаграммы.  
 ![диаграмма прецендентов](https://github.com/AbakumtsevRoman/laba1.github.io/blob/84b9c0e6dd9dd20f63b4430572562c1b1df67471/%D0%BB%D0%B0%D0%B1%D0%B0%201/12.png) 
 
