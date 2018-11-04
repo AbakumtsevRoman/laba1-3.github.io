@@ -26,12 +26,5 @@
 Представление блока A3 с помощью DFD:  
 ![декомпозиция A3](https://github.com/AbakumtsevRoman/laba1.github.io/blob/master/%D0%BB%D0%B0%D0%B1%D0%B0%201/%D1%804.png)  
 
-Используемы хранилища данных для блока A3 в представлении DFD:  
+Используемые хранилища данных для блока A3 в представлении DFD:  
 ![список БД](https://github.com/AbakumtsevRoman/laba1.github.io/blob/master/%D0%BB%D0%B0%D0%B1%D0%B0%201/%D1%805.png)  
-
-## Лабораторная 4  
-  
-## Лабораторная 5  
-  
-## Лабораторная 6  
-  
