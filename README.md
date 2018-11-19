@@ -27,3 +27,5 @@
 
 Используемые хранилища данных для блока A3 в представлении DFD:  
 ![список БД](https://github.com/AbakumtsevRoman/laba1.github.io/blob/master/%D0%BB%D0%B0%D0%B1%D0%B0%201/%D1%805.png)  
+
+## [Курсовая работа (лабораторные 4-6)](https://github.com/AbakumtsevRoman/coursework)
